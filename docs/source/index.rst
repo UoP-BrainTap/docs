@@ -12,7 +12,7 @@ Contents
 
 .. toctree::
 
+   installation
    scope
    implementation
    user-requirments
-   usage
