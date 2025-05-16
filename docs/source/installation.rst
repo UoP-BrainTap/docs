@@ -20,25 +20,25 @@ Frontend
 
 .. code-block:: bash
 
-git clone https://github.com/UoP-BrainTap/frontend
+   git clone https://github.com/UoP-BrainTap/frontend
 
 **2. Enter project directory**
 
 .. code-block:: bash
 
-cd frontend
+   cd frontend
 
 **3. Install the dependencies**
 
 .. code-block:: bash
 
-flutter pub get
+   flutter pub get
 
 **4. Run the app**
 
 .. code-block:: bash
 
-flutter run
+   flutter run
 
 Backend
 ----------------
@@ -47,22 +47,22 @@ Backend
 
 .. code-block:: bash
 
-git clone https://github.com/UoP-BrainTap/backend
+   git clone https://github.com/UoP-BrainTap/backend
 
 **2. Enter project directory**
 
-... code-block:: bash
+.. code-block:: bash
 
-cd backend
+   cd backend
 
 **3. Install the dependencies**
 
-... code-block:: bash
+.. code-block:: bash
 
-dart pub get
+   dart pub get
 
 **4. Run the server**
 
-... code-block:: bash
+.. code-block:: bash
 
-dart run
+   dart run
