@@ -18,51 +18,43 @@ Frontend
 
 **1. Clone the repository**
 
-```bash
+.. code-block:: bash
 git clone https://github.com/UoP-BrainTap/frontend
-```
 
 **2. Enter project directory**
 
-```bash
+.. code-block:: bash
 cd frontend
-```
 
 **3. Install the dependencies**
 
-```bash
+.. code-block:: bash
 flutter pub get
-```
 
 **4. Run the app**
 
-```bash
+.. code-block:: bash
 flutter run
-```
 
 Backend
 ----------------
 
 **1. Clone the repository**
 
-```bash
+.. code-block:: bash
 git clone https://github.com/UoP-BrainTap/backend
-```
 
 **2. Enter project directory**
 
-```bash
+... code-block:: bash
 cd backend
-```
 
 **3. Install the dependencies**
 
-```bash
+... code-block:: bash
 dart pub get
-```
 
 **4. Run the server**
 
-```bash
+... code-block:: bash
 dart run
-```
